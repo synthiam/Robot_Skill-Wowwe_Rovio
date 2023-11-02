@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PluginV1XML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FRIENDLY_NAME>Wowwee Rovio</FRIENDLY_NAME>
+  <DLL_FILENAME>WowweeRovio.dll</DLL_FILENAME>
+  <AUTHOR_NAME>Wowwee</AUTHOR_NAME>
+  <LICENSE_URL>https://synthiam.com/Software/plugin-license.aspx</LICENSE_URL>
+  <PLUGIN_GUID>72ae66af-0bf4-47f5-9076-29690c2ce48a</PLUGIN_GUID>
+  <CATEGORY_TYPE>Camera</CATEGORY_TYPE>
+  <DESCRIPTION>Movement panel for the Wowwee Rovio toy robot.</DESCRIPTION>
+  <VersionRelease>1</VersionRelease>
+</PluginV1XML>
